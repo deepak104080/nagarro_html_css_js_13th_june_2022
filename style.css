@@ -1,0 +1,60 @@
+/* body {
+    color: red;
+} */
+
+
+/* selector */
+/* tag selector
+id selector
+class selector
+universal selector */
+
+
+p {
+    font-size: 50px;
+}
+
+/* p {
+    color: blue;
+} */
+
+#para1 {
+    color: blue;
+}
+
+#para2 {
+    color: green;
+}
+
+.heading2 {
+    font-size: 60px;
+    color: blueviolet;
+}
+
+.heading3 {
+    font-size: 55px;
+    color: #dd77aa;
+}
+
+
+*{
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* box model - margin, padding, border
+display
+position
+width approach for structure
+flex/grid approach of sturcture
+font related
+box related  
+pseudo elemnts
+media queries - responsive web pages
+specificity rule
+*/
+
+
+
+css libraries - bootstrap, foundation, material, semantic
